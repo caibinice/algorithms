@@ -1,0 +1,29 @@
+.gradle
+/build/
+.idea
+out
+output/**
+*.class
+*.iml
+*/.idea/**
+.idea/**
+.idea
+*.log
+*.log.[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]
+*/.classpath
+.classpath
+*/.project
+.project
+.cache/**
+target/
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties

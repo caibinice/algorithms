@@ -1,3 +1,5 @@
 # algorithms
-some algorithm demo and exercise
-first change:2016/10/11 15:59
+some algorithm demo and exercise  
+一些基础算法的练习和查缺补漏  
+
+
