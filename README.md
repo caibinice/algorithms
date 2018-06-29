@@ -19,4 +19,12 @@ some algorithm demo and exercise
 在所有的单例实现方式中，枚举是一种在代码写法上最简单的方式，之所以代码十分简洁，是因为Java给我们提供了enum关键字，我们便可以很方便的声明一个枚举类型，而不需要关心其初始化过程中的线程安全问题，因为枚举类在被虚拟机加载的时候会保证线程安全的被初始化。  
 很多人会对枚举法实现的单例模式很不理解。这里需要深入理解的是两个点：  
 枚举类实现其实省略了private类型的构造函数。  
-枚举类的域(field)其实是相应的enum类型的一个实例对象
+枚举类的域(field)其实是相应的enum类型的一个实例对象  
+
+## 3.一些leetcode练习题
+两个非空链表相加：AddTwoListNodeNumber.java  
+判断回文数;翻转整数：ReverseNumber.java  
+删除数组重复元素：DeleteRepeatInArray.java  
+找出数组中的和：FindSum.java  
+罗马数字转整数;整数转罗马数字：RomanToInt.java  
+ 
