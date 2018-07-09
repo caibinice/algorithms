@@ -27,4 +27,6 @@ some algorithm demo and exercise
 删除数组重复元素：DeleteRepeatInArray.java  
 找出数组中的和：FindSum.java  
 罗马数字转整数;整数转罗马数字：RomanToInt.java  
- 
+字符串数组中的最长公共前缀：LongestCommonPrefix.java  
+不含重复字符的最长子串长度:LongestCommonSubstr.java  
+
