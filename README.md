@@ -29,4 +29,9 @@ some algorithm demo and exercise
 罗马数字转整数;整数转罗马数字：RomanToInt.java  
 字符串数组中的最长公共前缀：LongestCommonPrefix.java  
 不含重复字符的最长子串长度:LongestCommonSubstr.java  
+合并两个有序链表：MergeTwoSortedListNode.java  
+二进制中数字1的最长间距：BinaryGap.java  
+实现C语言strStr()函数:MyStrStr.java  
+盛最多水的容器:MaxArea.java  
+
 
