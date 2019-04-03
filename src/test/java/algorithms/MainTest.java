@@ -16,4 +16,8 @@ public class MainTest {
         System.out.println(obj.pop());
         System.out.println(obj.getMin());
     }
+
+    public static void main(String[] args) {
+        new MainTest().minStackTest();
+    }
 }

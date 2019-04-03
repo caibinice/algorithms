@@ -218,6 +218,8 @@ public class TestAnswer {
 
         //test8();
 
-        test9("./test9.txt", "./");
+        //test9("./test9.txt", "./");
+
+        
     }
 }
