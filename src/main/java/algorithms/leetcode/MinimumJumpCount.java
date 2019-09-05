@@ -19,10 +19,11 @@ public class MinimumJumpCount {
      * You can assume that you can always reach the last index.
      */
 
-//    public static int jump(int[] nums) {
-//        numbers = nums;
-//        return jumpToEnd(0, 0);
-//    }
+    //穷举法
+    public static int jumpV2(int[] nums) {
+        numbers = nums;
+        return jumpToEnd(0, 0);
+    }
 
     private static int[] numbers;
 
