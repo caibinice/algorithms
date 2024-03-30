@@ -1,3 +1,7 @@
+package algorithms.leetcode;
+
+import java.util.HashMap;
+
 class ContainsDuplicateII {
 
     /**

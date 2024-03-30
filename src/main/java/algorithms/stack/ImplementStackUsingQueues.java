@@ -1,3 +1,9 @@
+
+package algorithms.stack;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
 class ImplementStackUsingQueues {
 
 /**
@@ -19,7 +25,7 @@ Depending on your language, the queue may not be supported natively. You may sim
     //使用队列模拟一个后进先出的栈。
     Queue<Integer> queue;
     
-    public MyStack()
+    public ImplementStackUsingQueues()
     {
         this.queue=new LinkedList<Integer>();
     }
